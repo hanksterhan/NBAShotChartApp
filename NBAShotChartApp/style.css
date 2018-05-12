@@ -1,0 +1,12 @@
+body{
+  background-image : url('background.jpg');
+  background-position: top center;
+  background-color : 	#808080;
+}
+
+
+#controls {
+
+  opacity: 0.85;
+
+}
